@@ -39,10 +39,10 @@ How It Works
     📸 Screenshots
 
     🔹 Recommendation System Interface
-
-
-
+        ![Recommendation System UI](images/recommendation0.png)
+        
     🔹 Sample Results
-
+        ![Recommendation System UI](images/recommendation1.png)
+        ![Recommendation System UI](images/recommendation2.png)
 
 
