@@ -39,7 +39,7 @@ How It Works
     📸 Screenshots
 
     🔹 Recommendation System Interface
-        ![Recommendation System UI](https://github.com/Frankly03/TV-Show-Recommendation-System/blob/main/images/Screenshot0.png?raw=true)
+        ![Recommendation System UI](https://raw.githubusercontent.com/Frankly03/TV-Show-Recommendation-System/blob/main/images/Screenshot0.png?raw=true)
         
     🔹 Sample Results
         ![Recommendation System UI](images/Screenshot1.png)
